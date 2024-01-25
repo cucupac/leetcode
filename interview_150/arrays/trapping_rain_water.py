@@ -49,4 +49,4 @@ for i in range(len(height)):
             max_c_i = i
         c_indexes.append(i)
 
-print(um(traps.values()))
+print(sum(traps.values()))
